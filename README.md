@@ -1,16 +1,16 @@
 # Face-Attendance-using-Face-Recognition
 
-#Libraries Used:
+# Libraries Used:
 
-##Intro About Project
+## Intro About Project
 In this project, we are perform Facial recognition with high accuracy. and using machine learning creates a Attendance project that will use webcam to detect faces and record the attendance live in an excel sheet.
 
-#Motivation 😲
+## Motivation 😲
 We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
 
 
 
-#Tech Used 💻
+# Tech Used 💻
 Build With -
 
 Python 3.9.1
@@ -27,7 +27,7 @@ All The Module are Latest Version.
 Later, OpenCV came with both cv and cv2 . Now, there in the latest releases, there is only the cv2 module, and cv is a subclass inside cv2 . You need to call import cv2.cv as cv to access it.)
 
 
-##Instructions to run:
+## Instructions to run:
 First download or clone the project
 Import the project to your favourit IDE
 Create an python enviroment
@@ -35,7 +35,7 @@ Install all the packages
 Run the project using the command line or your IDE Run Button
 
 
-#Run:
+# Run:
 python -m venv env
 .\env\Scripts\activate
 Install below libraries:
