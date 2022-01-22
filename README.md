@@ -8,7 +8,11 @@ In this project, we are perform Facial recognition with high accuracy. and using
 ## Motivation 😲
 We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
 
-
+## Working:
+  > Find face in images.
+  > Analyze facial features.
+  > Compare against known faces.
+  > Make prediction.
 
 # Tech Used 💻
 Build With -
@@ -34,31 +38,18 @@ Later, OpenCV came with both cv and cv2 . Now, there in the latest releases, the
 ## Instructions to run:
 
 First download or clone the project
-
 Import the project to your favourit IDE
-
 Create an python enviroment
-
 Install all the packages
-
 Run the project using the command line or your IDE Run Button
-
 
 ## Run:
 python -m venv env
-
 .\env\Scripts\activate
-
 Install below libraries:
-
 pip install cmake
-
 pip install dlib
-
 pip install opencv/cv2
-
 pip install numpy
-
 pip install face_recognition
-
 py AttendenceProject.py
