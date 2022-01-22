@@ -48,12 +48,20 @@ Install all the packages.
 Run the project using the command line or your IDE Run Button.
 
 ## Run:
-python -m venv env \n
-.\env\Scripts\activate \n
+python -m venv env 
+
+.\env\Scripts\activate 
+
 Install below libraries:
+
 pip install cmake
+
 pip install dlib
+
 pip install opencv/cv2
+
 pip install numpy
+
 pip install face_recognition
+
 py AttendenceProject.py
