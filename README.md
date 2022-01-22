@@ -10,8 +10,11 @@ We seek to provide a valuable attendance service for both teachers and students.
 
 ## Working:
   > Find face in images.
+  
   > Analyze facial features.
+  
   > Compare against known faces.
+  
   > Make prediction.
 
 # Tech Used 💻
