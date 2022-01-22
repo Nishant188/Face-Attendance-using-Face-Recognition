@@ -35,7 +35,7 @@ Install all the packages
 Run the project using the command line or your IDE Run Button
 
 
-# Run:
+## Run:
 python -m venv env
 .\env\Scripts\activate
 Install below libraries:
