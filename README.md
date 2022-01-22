@@ -37,11 +37,11 @@ Later, OpenCV came with both cv and cv2 . Now, there in the latest releases, the
 
 ## Instructions to run:
 
-First download or clone the project
-Import the project to your favourit IDE
-Create an python enviroment
-Install all the packages
-Run the project using the command line or your IDE Run Button
+First download or clone the project.
+Import the project to your favourit IDE.
+Create an python enviroment.
+Install all the packages.
+Run the project using the command line or your IDE Run Button.
 
 ## Run:
 python -m venv env
